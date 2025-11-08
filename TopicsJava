@@ -1,0 +1,70 @@
+JAVA IMP TOPICS
+Git
+
+DSA
+
+Agile & Scrum
+
+
+OOPs
+Abstraction( Interface, Abstract Class)
+Encapsulation(Access modifiers)
+Inheritance(extends , super)
+Polymorphism(overloading,overiding)
+
+Java Core
+Method Overloading/overriding
+Static Objects
+Exception Handing/Throws/Throwable/Clone
+Hashcode/Comparator/Comparable
+Constructors
+Class and Objects
+String APIs
+Generics
+
+
+Collections
+Collections (Stack, Arrays, Iterable, Lists,LinkedList, Sets, Queues, Maps) and internal workings
+Sorting of Collections
+Difference between one collection to another(ArrayList vs LinkedList).
+
+
+Java 8
+Lambda Expressions and Functional Interfaces
+Method reference and constructor reference by :: operator
+Streams API
+Optional
+
+Design Principle
+SOLID
+DRY
+KISS
+YAGNI
+
+Design Patterns
+Singleton
+Factory
+Builder
+Decorator
+Strategy
+
+
+JUnit
+
+Mockito framework
+
+Java Persistence API
+
+Relational DB
+
+Spring Framework
+Spring core
+Spring Boot
+Spring REST
+Spring Data JPA
+
+Microservices Basics
+Service Registry & Discovery
+Feign Client
+Gateway
+Load balancing
